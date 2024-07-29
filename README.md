@@ -20,10 +20,8 @@ The Used fonts that match the theme of the app to allow to feel more alive! This
 ### Sight Words Flashcards Exercise:
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 19 PM" src="https://github.com/user-attachments/assets/e8fd598f-de81-4f33-b869-6eeeb1782770">
 
-#### (swipe right for correct):
+#### (swipe right/swipe left):
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 15 PM" src="https://github.com/user-attachments/assets/290a6c0c-b223-4da2-9b77-1ef0211e148b">
-
-#### (swipe left for incorrect):
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 23 PM" src="https://github.com/user-attachments/assets/1c017e26-ab55-4926-9bb1-89bb7353a2cc">
 
 
