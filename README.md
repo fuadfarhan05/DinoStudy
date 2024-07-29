@@ -5,7 +5,11 @@
 
 DinoStudy is an app for young students to begin their journey in learning how to read. This app contains flashcards of many sight words that allow students to improve their abilities in recognizing common sight words. This app is intended to encourage young readers to an entertaining version of their reading practices and additionally allowing readers to practice their reading skills at home or when traveling with the accessibilty of this mobile app. 
 
+### Purpose:
+This app allows readers to increase their reading ability and focus. The goal is to give young students the ability to use technology to improve them rather than to cause disruption to their focus. The more focus improves, the better their reading abilities will become!
 
+### Creation:
+The Used fonts that match the theme of the app to allow to feel more alive! This app has around 100 common english sight words that students can practice and memorize. After the student is done, the student's parent/guardian is able to see how many question the student gets wrong. 
 ### Home Screen:
 <img height="295" alt="Screenshot 2024-07-29 at 2 56 56 PM" src="https://github.com/user-attachments/assets/9e175571-5eea-4e19-b8f7-bb884376a1fc">
 
