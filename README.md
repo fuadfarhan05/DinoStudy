@@ -9,7 +9,8 @@ DinoStudy is an app for young students to begin their journey in learning how to
 This app allows readers to increase their reading ability and focus. The goal is to give young students the ability to use technology to improve them rather than to cause disruption to their focus. The more focus improves, the better their reading abilities will become! This is also much more efficient for educaters to present students with exercises on the device rather than manually having to make flashcards also leading reducing the excessive use for paper. 
 
 ### Creation:
-The Used fonts that match the theme of the app to allow to feel more alive! This app has around 100 common english sight words that students can practice and memorize. After the student is done, the student's parent/guardian is able to see how many question the student gets wrong. 
+This app was created in Apple's app development tool Xcode with the programming language SwiftUI. This app has a fonts that match the theme of the app to allow to feel more alive! The creative work and design aspect of this app was meant to draw in the attention of young readers to a more entertaining and engaging way of learing how to read. This app has around 100 common english sight words that students can practice and memorize. After the student is done, the student's parent/guardian is able to see how many question the student gets wrong. 
+
 ### Home Screen:
 <img height="295" alt="Screenshot 2024-07-29 at 2 56 56 PM" src="https://github.com/user-attachments/assets/9e175571-5eea-4e19-b8f7-bb884376a1fc">
 
