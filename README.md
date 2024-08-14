@@ -23,7 +23,7 @@ Remember: The idea is to allow the readers to play with these words to learn the
 <img width="295" alt="Screenshot 2024-08-14 at 9 53 37 AM" src="https://github.com/user-attachments/assets/d742ecbe-4dee-4ff9-976a-7b4cfe40c7da">
 
 
-###### Dino Study:
+#### Dino Study:
 Dino study is a simple flashcard game which allows the reader to memorize sight words on a flashcard so that the next time they see the word anywhere(especially in a book) they can recognize and identify the word.
 
 ###### Home Screen:
@@ -40,7 +40,7 @@ Dino study is a simple flashcard game which allows the reader to memorize sight 
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 23 PM" src="https://github.com/user-attachments/assets/1c017e26-ab55-4926-9bb1-89bb7353a2cc">
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 15 PM" src="https://github.com/user-attachments/assets/290a6c0c-b223-4da2-9b77-1ef0211e148b">
 
-##### Word Fossils:
+#### Word Fossils:
 Word Fossil is another easy game. In this game the theme is to search for 'word fossils'. The reader has to see the word displayed on the top of the screen and match it with the brown tile with the word on it. This tile is the sand and the white word is meant to be the word fossils. It is a very simple game but perfect for beginner readers who are just now building familiarity with these words.  
 
 ###### Introduction:
@@ -50,7 +50,7 @@ Word Fossil is another easy game. In this game the theme is to search for 'word 
 <img width="295" alt="Screenshot 2024-08-14 at 9 54 00 AM" src="https://github.com/user-attachments/assets/7b6e83ab-535e-424f-931f-f6e8e5119e96">
 
 
-##### Word Wingz:
+#### Word Wingz:
 Out of the three 3 modes Word Wingz was designed for a bit of a challenge. This game requires you to look at words that have the same endings and learn how all of them sound. Each beginning letter is meant to be a specific wing sauce that goes on the ending letters(those are the wings). Every sauce(beginning word) changes the whole word similar to how different sauces in wings give the wings a different taste. 
 
 ###### Introduction:
