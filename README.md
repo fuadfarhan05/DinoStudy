@@ -58,7 +58,8 @@ Out of the three 3 modes Word Wingz was designed for a bit of a challenge. This 
 
 
 ###### Game screen:
-<img width="295" alt="Screenshot 2024-08-14 at 9 55 01 AM" src="https://github.com/user-attachments/assets/5b689904-6d56-4967-97d3-4db7ba875b49">
+<img width="295" alt="Screenshot 2024-08-14 at 9 54 26 AM" src="https://github.com/user-attachments/assets/7ac21121-a938-4220-9348-55cb6b8ade7a">
+
 
 
 
