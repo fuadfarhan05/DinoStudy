@@ -26,38 +26,38 @@ Remember: The idea is to allow the readers to play with these words to learn the
 ###### Dino Study:
 Dino study is a simple flashcard game which allows the reader to memorize sight words on a flashcard so that the next time they see the word anywhere(especially in a book) they can recognize and identify the word.
 
-####### Home Screen:
+###### Home Screen:
 <img height="295" alt="Screenshot 2024-07-29 at 2 56 56 PM" src="https://github.com/user-attachments/assets/9e175571-5eea-4e19-b8f7-bb884376a1fc">
 
-####### Introduction:
+###### Introduction:
 <img height="295" alt="Screenshot 2024-07-29 at 2 56 59 PM" src="https://github.com/user-attachments/assets/875953aa-6d78-485a-957a-4c2cec96fa97">
 
 
-####### Sight Words Flashcards Exercise:
+###### Sight Words Flashcards Exercise:
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 19 PM" src="https://github.com/user-attachments/assets/e8fd598f-de81-4f33-b869-6eeeb1782770">
 
-####### (swipe right/swipe left):
+###### (swipe right/swipe left):
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 23 PM" src="https://github.com/user-attachments/assets/1c017e26-ab55-4926-9bb1-89bb7353a2cc">
 <img height="295" alt="Screenshot 2024-07-29 at 2 57 15 PM" src="https://github.com/user-attachments/assets/290a6c0c-b223-4da2-9b77-1ef0211e148b">
 
-###### Word Fossils:
+##### Word Fossils:
 Word Fossil is another easy game. In this game the theme is to search for 'word fossils'. The reader has to see the word displayed on the top of the screen and match it with the brown tile with the word on it. This tile is the sand and the white word is meant to be the word fossils. It is a very simple game but perfect for beginner readers who are just now building familiarity with these words.  
 
-####### Introduction:
+###### Introduction:
 <img width="295" alt="Screenshot 2024-08-14 at 9 55 01 AM" src="https://github.com/user-attachments/assets/02351dcf-11a9-44c7-8c0f-bc64e8389250">
 
-####### Game screen:
+###### Game screen:
 <img width="295" alt="Screenshot 2024-08-14 at 9 54 00 AM" src="https://github.com/user-attachments/assets/7b6e83ab-535e-424f-931f-f6e8e5119e96">
 
 
-###### Word Wingz:
+##### Word Wingz:
 Out of the three 3 modes Word Wingz was designed for a bit of a challenge. This game requires you to look at words that have the same endings and learn how all of them sound. Each beginning letter is meant to be a specific wing sauce that goes on the ending letters(those are the wings). Every sauce(beginning word) changes the whole word similar to how different sauces in wings give the wings a different taste. 
 
-####### Introduction:
+###### Introduction:
 <img width="295" alt="Screenshot 2024-08-14 at 9 54 43 AM" src="https://github.com/user-attachments/assets/a06ee8b1-2efc-49e5-bec3-05d1e99c327f">
 
 
-####### Game screen:
+###### Game screen:
 <img width="295" alt="Screenshot 2024-08-14 at 9 55 01 AM" src="https://github.com/user-attachments/assets/5b689904-6d56-4967-97d3-4db7ba875b49">
 
 
