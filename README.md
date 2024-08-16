@@ -2,6 +2,8 @@
 
 ## About DinoStudy
 <img width="442" alt="Screenshot 2024-07-29 at 3 29 42 PM" src="https://github.com/user-attachments/assets/800010da-c9e5-43cb-b9f5-b165f5aafee3">
+<img width="442" alt="Screenshot 2024-08-16 at 4 23 10 PM" src="https://github.com/user-attachments/assets/3f9bb9df-b939-482c-8eba-77db07a6623b">
+
 
 DinoStudy is an app for young students to begin their journey in learning how to read. This app contains flashcards of many sight words that allow students to improve their abilities in recognizing common sight words. This app is intended to encourage young readers to an entertaining version of their reading practices and additionally allowing readers to practice their reading skills at home or when traveling with the accessibilty of this mobile app. 
 
